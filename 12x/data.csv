@@ -1,0 +1,381 @@
+home,away,1,2,x,result
+Man Utd,Swansea,14,49,105,2
+Leicester,Everton,32,34,25,X
+QPR,Hull,25,33,33,2
+Stoke,Aston Villa,21,34,42,2
+West Brom,Sunderland,23,34,36,X
+West Ham,Spurs,36,36,22,2
+Arsenal,Crystal Palace,13,56,125,1
+Liverpool,Southampton,15,49,86,1
+Newcastle,Man City,63,43,16,2
+Burnley,Chelsea,105,49,14,2
+Aston Villa,Newcastle,24,31,38,X
+Chelsea,Leicester,13,64,125,1
+Crystal Palace,West Ham,25,33,33,2
+Southampton,West Brom,20,37,42,X
+Swansea,Burnley,19,35,53,1
+Everton,Arsenal,30,35,26,X
+Hull,Stoke,25,33,33,X
+Spurs,QPR,15,45,90,1
+Sunderland,Man Utd,46,39,19,X
+Man City,Liverpool,21,36,40,1
+Burnley,Man Utd,59,41,17,X
+Man City,Stoke,13,70,150,2
+Newcastle,Crystal Palace,18,35,60,X
+QPR,Sunderland,26,35,30,1
+Swansea,West Brom,19,38,48,1
+West Ham,Southampton,26,35,30,2
+Everton,Chelsea,40,35,22,2
+Aston Villa,Hull,23,34,36,1
+Spurs,Liverpool,27,36,28,2
+Leicester,Arsenal,42,41,19,X
+Arsenal,Man City,31,36,25,X
+Chelsea,Swansea,13,62,132,1
+Crystal Palace,Burnley,22,35,38,X
+Southampton,Newcastle,20,35,48,1
+Stoke,Leicester,22,34,40,2
+Sunderland,Spurs,38,38,21,X
+West Brom,Everton,36,35,23,2
+Liverpool,Aston Villa,13,65,130,2
+Man Utd,QPR,13,61,138,1
+Hull,West Ham,22,35,38,X
+QPR,Stoke,28,33,29,X
+Aston Villa,Arsenal,49,39,19,2
+Burnley,Sunderland,26,34,31,X
+Newcastle,Hull,21,34,41,X
+Swansea,Southampton,26,34,31,2
+Spurs,West Brom,15,47,78,2
+West Ham,Liverpool,54,39,18,1
+Leicester,Man Utd,64,42,16,1
+Everton,Crystal Palace,14,50,100,2
+Man City,Chelsea,26,35,30,X
+Liverpool,Everton,19,39,47,X
+Chelsea,Aston Villa,13,69,150,1
+Crystal Palace,Leicester,27,34,30,1
+Hull,Man City,66,43,16,2
+Man Utd,West Ham,14,57,96,1
+Southampton,QPR,15,46,88,1
+Sunderland,Swansea,28,34,28,X
+Arsenal,Spurs,18,40,50,X
+West Brom,Burnley,21,35,44,1
+Stoke,Newcastle,22,35,39,1
+Hull,Crystal Palace,21,36,41,1
+Leicester,Burnley,18,38,54,X
+Liverpool,West Brom,14,55,98,1
+Sunderland,Stoke,26,33,32,1
+Swansea,Newcastle,19,38,47,X
+Aston Villa,Man City,75,45,15,2
+Man Utd,Everton,18,41,50,1
+Chelsea,Arsenal,17,41,58,1
+Spurs,Southampton,22,36,37,1
+West Ham,QPR,20,36,45,1
+Man City,Spurs,15,48,82,1
+Arsenal,Hull,14,53,95,X
+Burnley,West Ham,28,35,28,2
+Crystal Palace,Chelsea,100,51,14,2
+Everton,Aston Villa,16,42,68,1
+Newcastle,Leicester,23,37,35,1
+Southampton,Sunderland,16,42,70,1
+QPR,Liverpool,64,44,16,2
+Stoke,Swansea,26,34,31,1
+West Brom,Man Utd,51,41,18,X
+West Ham,Man City,64,46,16,1
+Liverpool,Hull,15,48,82,X
+Southampton,Stoke,16,41,64,1
+Sunderland,Arsenal,54,40,18,2
+Spurs,Newcastle,18,39,52,2
+West Brom,Crystal Palace,19,37,45,X
+Swansea,Leicester,20,37,44,1
+Burnley,Everton,47,38,19,2
+Man Utd,Chelsea,30,36,25,X
+QPR,Aston Villa,25,33,33,1
+Newcastle,Liverpool,41,38,20,1
+Arsenal,Burnley,13,66,140,1
+Chelsea,QPR,12,88,220,1
+Everton,Swansea,18,39,52,X
+Hull,Southampton,38,35,22,2
+Leicester,West Brom,23,36,35,2
+Stoke,West Ham,23,35,35,X
+Man City,Man Utd,19,40,44,1
+Aston Villa,Spurs,37,35,22,2
+Crystal Palace,Sunderland,22,35,39,2
+Liverpool,Chelsea,37,36,22,2
+Burnley,Hull,28,34,28,1
+Man Utd,Crystal Palace,13,64,125,1
+Southampton,Leicester,15,46,80,1
+Spurs,Stoke,18,37,56,2
+West Ham,Aston Villa,19,38,47,X
+QPR,Man City,100,52,14,X
+Sunderland,Everton,44,36,20,X
+West Brom,Newcastle,24,36,32,2
+Swansea,Arsenal,37,36,22,1
+Chelsea,West Brom,13,66,140,1
+Everton,West Ham,19,36,50,1
+Leicester,Sunderland,23,35,35,X
+Man City,Swansea,14,53,96,1
+Newcastle,QPR,18,39,52,1
+Stoke,Burnley,17,38,64,2
+Arsenal,Man Utd,24,35,33,2
+Crystal Palace,Liverpool,50,36,19,1
+Hull,Spurs,35,35,23,2
+Aston Villa,Southampton,50,36,19,X
+West Brom,Arsenal,46,39,19,2
+Burnley,Aston Villa,23,35,36,X
+Liverpool,Stoke,17,40,60,1
+Man Utd,Hull,13,60,125,1
+QPR,Leicester,24,34,34,1
+Swansea,Crystal Palace,18,38,53,X
+West Ham,Newcastle,22,36,37,1
+Sunderland,Chelsea,95,54,14,X
+Southampton,Man City,36,37,22,2
+Spurs,Everton,24,36,32,1
+Burnley,Newcastle,28,34,28,X
+Leicester,Liverpool,45,35,20,2
+Man Utd,Stoke,15,50,90,1
+Swansea,QPR,18,39,52,1
+Crystal Palace,Aston Villa,22,35,40,2
+West Brom,West Ham,25,34,33,2
+Arsenal,Southampton,19,39,46,1
+Chelsea,Spurs,14,52,100,1
+Everton,Hull,16,42,72,X
+Sunderland,Man City,72,42,16,2
+Newcastle,Chelsea,78,44,16,1
+Hull,West Brom,25,34,33,X
+Liverpool,Sunderland,15,46,72,X
+QPR,Burnley,21,36,40,1
+Stoke,Arsenal,44,37,20,1
+Spurs,Crystal Palace,16,44,66,X
+Man City,Everton,16,46,66,1
+West Ham,Swansea,24,35,33,1
+Aston Villa,Leicester,23,35,35,1
+Southampton,Man Utd,28,35,27,2
+Burnley,Southampton,50,37,19,1
+Chelsea,Hull,12,80,210,1
+Crystal Palace,Stoke,28,33,30,X
+Leicester,Man City,76,49,15,2
+Sunderland,West Ham,28,35,28,X
+West Brom,Aston Villa,22,34,39,1
+Arsenal,Newcastle,15,49,80,1
+Man Utd,Liverpool,19,40,43,1
+Swansea,Spurs,25,35,31,2
+Everton,QPR,15,46,82,1
+Man City,Crystal Palace,13,62,130,1
+Aston Villa,Man Utd,63,40,17,X
+Hull,Swansea,31,34,26,2
+QPR,West Brom,24,35,33,1
+Southampton,Everton,23,35,36,1
+Spurs,Burnley,15,46,82,1
+West Ham,Leicester,17,40,60,1
+Newcastle,Sunderland,20,36,45,2
+Liverpool,Arsenal,30,36,26,X
+Stoke,Chelsea,60,40,17,2
+Chelsea,West Ham,14,55,100,1
+Burnley,Liverpool,50,40,18,2
+Crystal Palace,Southampton,38,35,22,2
+Everton,Stoke,18,38,55,2
+Leicester,Spurs,37,36,22,2
+Man Utd,Newcastle,15,48,80,1
+Sunderland,Hull,23,35,35,2
+Swansea,Aston Villa,18,38,55,1
+West Brom,Man City,84,47,15,2
+Arsenal,QPR,13,64,135,1
+Spurs,Man Utd,34,35,23,X
+Southampton,Chelsea,48,39,18,X
+Aston Villa,Sunderland,24,34,33,X
+Hull,Leicester,24,34,33,2
+Man City,Burnley,12,78,200,X
+QPR,Crystal Palace,24,36,32,X
+Stoke,West Brom,20,34,47,1
+West Ham,Arsenal,38,37,21,2
+Newcastle,Everton,30,34,27,1
+Liverpool,Swansea,17,40,60,1
+Stoke,Man Utd,43,37,20,X
+Aston Villa,Crystal Palace,24,34,34,X
+Hull,Everton,35,36,23,1
+Liverpool,Leicester,14,54,100,X
+Man City,Sunderland,12,90,170,1
+Newcastle,Burnley,17,41,60,X
+QPR,Swansea,31,36,25,X
+Southampton,Arsenal,31,36,25,1
+West Ham,West Brom,19,38,47,X
+Spurs,Chelsea,44,40,19,1
+Sunderland,Liverpool,45,36,20,2
+Burnley,QPR,23,34,36,1
+Chelsea,Newcastle,13,78,95,1
+Everton,Man City,45,39,19,X
+Leicester,Aston Villa,24,34,34,1
+Swansea,West Ham,24,36,33,X
+West Brom,Hull,21,34,43,1
+Crystal Palace,Spurs,38,35,22,1
+Arsenal,Stoke,15,48,80,1
+Man Utd,Southampton,18,39,52,2
+Aston Villa,Liverpool,48,37,19,2
+Burnley,Crystal Palace,25,33,34,2
+Leicester,Stoke,27,35,29,2
+QPR,Man Utd,60,41,17,2
+Swansea,Chelsea,72,42,16,2
+Spurs,Sunderland,16,43,68,1
+Newcastle,Southampton,37,36,22,2
+West Ham,Hull,18,37,57,1
+Man City,Arsenal,19,38,47,2
+Everton,West Brom,19,37,49,X
+Hull,Newcastle,27,34,30,2
+Crystal Palace,Everton,30,35,26,2
+Liverpool,West Ham,17,40,60,1
+Man Utd,Leicester,13,58,160,1
+Stoke,QPR,17,40,62,1
+Sunderland,Burnley,22,35,38,1
+West Brom,Spurs,32,35,25,2
+Chelsea,Man City,21,36,40,X
+Arsenal,Aston Villa,13,63,140,1
+Southampton,Swansea,17,39,64,2
+Spurs,Arsenal,35,38,22,1
+Aston Villa,Chelsea,110,51,14,2
+Leicester,Crystal Palace,25,34,33,2
+Man City,Hull,12,80,200,X
+QPR,Southampton,48,38,19,2
+Swansea,Sunderland,19,36,51,X
+Everton,Liverpool,34,35,24,X
+Burnley,West Brom,27,33,31,X
+Newcastle,Stoke,24,34,35,X
+West Ham,Man Utd,40,37,21,X
+Arsenal,Leicester,13,66,120,1
+Hull,Aston Villa,23,34,37,1
+Sunderland,QPR,21,35,42,2
+Liverpool,Spurs,19,39,45,1
+Chelsea,Everton,13,63,140,1
+Man Utd,Burnley,13,60,150,1
+Southampton,West Ham,19,39,45,X
+Stoke,Man City,66,44,16,2
+Crystal Palace,Newcastle,25,34,33,X
+West Brom,Swansea,28,33,29,1
+Aston Villa,Stoke,29,33,29,2
+Chelsea,Burnley,12,80,220,X
+Crystal Palace,Arsenal,54,38,18,2
+Hull,QPR,22,33,41,1
+Sunderland,West Brom,25,33,34,X
+Swansea,Man Utd,45,36,20,1
+Man City,Newcastle,13,60,150,1
+Spurs,West Ham,19,38,48,X
+Everton,Leicester,18,38,57,X
+Southampton,Liverpool,27,34,30,2
+West Ham,Crystal Palace,21,35,42,2
+Burnley,Swansea,27,34,30,2
+Man Utd,Sunderland,14,54,100,1
+Newcastle,Aston Villa,20,35,46,1
+Stoke,Hull,19,36,51,1
+West Brom,Southampton,36,35,23,1
+Liverpool,Man City,31,36,25,1
+Arsenal,Everton,16,43,70,1
+Aston Villa,West Brom,27,32,31,1
+Hull,Sunderland,23,34,37,X
+Southampton,Crystal Palace,17,40,63,1
+Man City,Leicester,13,64,140,1
+Newcastle,Man Utd,45,36,20,2
+QPR,Arsenal,68,44,16,2
+Stoke,Everton,26,35,30,1
+Spurs,Swansea,18,40,50,1
+West Ham,Chelsea,54,39,18,2
+Liverpool,Burnley,14,52,110,1
+QPR,Spurs,49,41,18,2
+Crystal Palace,QPR,19,37,50,1
+Arsenal,West Ham,15,47,85,1
+Everton,Newcastle,19,37,49,1
+Leicester,Hull,23,35,36,X
+Sunderland,Aston Villa,23,34,37,2
+West Brom,Stoke,24,33,35,1
+Burnley,Man City,80,49,15,1
+Chelsea,Southampton,15,45,86,X
+Man Utd,Spurs,19,38,47,1
+Swansea,Liverpool,40,36,21,2
+Man City,West Brom,13,62,130,1
+Aston Villa,Swansea,26,33,32,2
+Newcastle,Arsenal,62,40,17,2
+QPR,Everton,36,35,23,2
+Southampton,Burnley,15,45,90,1
+Stoke,Crystal Palace,22,34,39,2
+Spurs,Leicester,16,45,65,1
+West Ham,Sunderland,19,37,50,1
+Liverpool,Man Utd,22,35,38,2
+Hull,Chelsea,92,45,15,2
+Arsenal,Liverpool,20,38,42,1
+Everton,Southampton,28,32,30,1
+Leicester,West Ham,24,36,33,1
+Man Utd,Aston Villa,14,50,120,1
+Swansea,Hull,20,34,48,1
+West Brom,QPR,18,37,57,2
+Chelsea,Stoke,13,60,155,1
+Burnley,Spurs,42,35,21,X
+Sunderland,Newcastle,26,32,33,1
+Crystal Palace,Man City,62,40,17,1
+Aston Villa,QPR,19,39,46,X
+Swansea,Everton,26,34,31,X
+Southampton,Hull,15,46,85,1
+Spurs,Aston Villa,16,43,68,2
+Sunderland,Crystal Palace,30,30,30,2
+West Brom,Leicester,23,34,37,2
+West Ham,Stoke,23,34,37,X
+Burnley,Arsenal,70,43,16,2
+QPR,Chelsea,100,54,14,2
+Man Utd,Man City,26,35,30,1
+Liverpool,Newcastle,15,46,86,1
+Crystal Palace,West Brom,21,35,42,2
+Everton,Burnley,17,40,60,1
+Leicester,Swansea,23,36,35,1
+Stoke,Southampton,38,33,23,1
+Chelsea,Man Utd,20,36,45,1
+Man City,West Ham,13,66,120,1
+Newcastle,Spurs,34,35,24,2
+Southampton,Spurs,22,35,38,X
+Burnley,Leicester,27,34,30,2
+Crystal Palace,Hull,20,35,46,2
+Newcastle,Swansea,24,35,33,2
+QPR,West Ham,25,35,32,X
+Stoke,Sunderland,20,36,46,X
+West Brom,Liverpool,45,36,20,X
+Man City,Aston Villa,13,64,130,1
+Everton,Man Utd,36,34,23,1
+Arsenal,Chelsea,27,34,30,X
+Hull,Liverpool,45,36,20,1
+Leicester,Chelsea,60,40,17,2
+Leicester,Newcastle,20,37,43,1
+Aston Villa,Everton,29,33,28,1
+Liverpool,QPR,14,55,100,1
+Sunderland,Southampton,44,34,21,1
+Swansea,Stoke,23,34,36,1
+West Ham,Burnley,22,36,37,1
+Man Utd,West Brom,14,51,110,2
+Chelsea,Crystal Palace,14,52,105,1
+Spurs,Man City,40,40,20,2
+Hull,Arsenal,60,40,17,2
+Everton,Sunderland,19,37,50,2
+Aston Villa,West Ham,20,37,44,1
+Hull,Burnley,20,37,44,2
+Leicester,Southampton,27,34,30,1
+Newcastle,West Brom,27,34,30,X
+Stoke,Spurs,30,34,27,1
+Crystal Palace,Man Utd,48,37,19,2
+Man City,QPR,12,82,210,1
+Chelsea,Liverpool,22,35,39,X
+Arsenal,Swansea,14,55,100,2
+Southampton,Aston Villa,18,39,52,1
+Burnley,Stoke,27,34,30,X
+QPR,Newcastle,32,36,24,1
+Spurs,Hull,18,40,51,1
+Sunderland,Leicester,30,30,30,X
+West Ham,Everton,30,35,26,2
+Liverpool,Crystal Palace,15,48,82,2
+Swansea,Man City,55,43,17,2
+Man Utd,Arsenal,25,36,31,X
+West Brom,Chelsea,45,36,20,1
+Arsenal,Sunderland,13,60,150,X
+Arsenal,West Brom,13,66,125,1
+Aston Villa,Burnley,21,37,38,2
+Chelsea,Sunderland,15,49,80,1
+Crystal Palace,Swansea,23,36,34,1
+Everton,Spurs,25,36,31,2
+Hull,Man Utd,35,38,22,X
+Leicester,QPR,16,46,63,1
+Man City,Southampton,16,45,67,1
+Newcastle,West Ham,18,41,50,1
+Stoke,Liverpool,36,37,22,1
